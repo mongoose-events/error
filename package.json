@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-event-error",
+  "version": "0.0.0",
+  "description": "a mongoose event handler that handles the error event",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "mongoose event",
+    "mongoose event error"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongoose-events/error.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mongoose-events/error/issues"
+  },
+  "homepage": "https://github.com/mongoose-events/error#readme"
+}
